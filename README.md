@@ -7,7 +7,7 @@
 - 📫 Reach me by my Email.
 
 
-![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikil-sriram&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
 <!---
