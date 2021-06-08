@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Nikil!
+# Hello I am Nikil! A self taught coder that's still learning!
+
+
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Vue, Node and more
 - 💻 My Hobbies are talking to friends, coding, and playing Basketball
