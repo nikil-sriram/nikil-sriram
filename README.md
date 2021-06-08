@@ -6,11 +6,8 @@
 - 💻 My Hobbies are talking to friends, coding, and playing Basketball
 - 📫 Reach me by my Email.
 
-[![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikil-sriram)](https://github.com/anuraghazra/github-readme-stats)
-![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikil-sriram&hide=contribs,prs)
-![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikil-sriram&count_private=true)
-![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikil-sriram&show_icons=true)
-![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikil-sriram&show_icons=true&theme=radical)
+
+![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikil-sriram&show_icons=true&theme=dark)
 
 
 <!---
